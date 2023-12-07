@@ -1,0 +1,35 @@
+body {
+    background-color: #e8fa1e;
+    text-align: center;
+}
+
+.container {
+    margin-top: 20vh;
+}
+
+.title {
+    font-size: 50px;
+}
+
+.decrease-button {
+    border: solid 2px red;
+    color: red;
+    background-color: #d6fa69;
+    
+}
+
+.reset-button {
+    border: solid 2px black;
+    color: gray;
+    background-color: #8c9efa;
+}
+
+.increase-button {
+    border: solid 2px green;
+    color:green;
+    background-color: chartreuse;
+}
+
+#number {
+    font-size: 30px;
+}
